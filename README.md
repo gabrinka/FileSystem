@@ -1,2 +1,2 @@
 # FileSystem
-Implementation of a FileSystem written in Haskell with tipical unix commands implemented.
+Implementation of a FileSystem written in Haskell with typical unix commands implemented such as cd , pwd , etc..
